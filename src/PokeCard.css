@@ -1,0 +1,21 @@
+
+.poke-card{
+    background-color:rgb(91, 176, 250);
+    width: 200px;
+    margin:1rem;
+    padding:.5rem;
+    text-align: center;
+    border-radius:5px;
+}
+
+.poke-card-img{
+    width:80%;
+}
+
+.poke-card-title{
+    margin-bottom: 0;
+}
+
+.poke-card-type{
+    margin-top:0;
+}
